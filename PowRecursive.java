@@ -1,5 +1,5 @@
 package questions;
-//PowRecursive
+//PowRecursive autor .mulukuri
 public class PowRecursive {
 	// main method execution being done
 	public static void main(String[] args) {
@@ -13,4 +13,7 @@ public class PowRecursive {
 		int result = num * pow(num, count - 1);
 		return result;
 	}
+	
+	// TBD
+	// creae metohds
 }
