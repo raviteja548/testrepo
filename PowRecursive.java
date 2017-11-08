@@ -1,5 +1,5 @@
 package questions;
-
+//PowRecursive
 public class PowRecursive {
 	public static void main(String[] args) {
 		int n = PowRecursive.pow(2, 6);
