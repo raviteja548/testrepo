@@ -1,5 +1,5 @@
 package questions;
-//PowRecursive
+//PowRecursive autor .m548
 public class PowRecursive {
 	// main method execution
 	public static void main(String[] args) {
