@@ -17,7 +17,7 @@ public class FibanocciRecursive {
 		if (n <= 2)
 			return 1;
 
-		long fib = fib(n - 1) + fib(n - 2);
+		long fib = fib(n - 1) + fib(n - 2); //recursive call user1 fib
 		return fib;
 	}
 
