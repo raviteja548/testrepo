@@ -1,7 +1,7 @@
 package questions;
 //PowRecursive
 public class PowRecursive {
-	// main method execution
+	// main method execution being done
 	public static void main(String[] args) {
 		int n = PowRecursive.pow(2, 6);
 		System.out.println(n);
