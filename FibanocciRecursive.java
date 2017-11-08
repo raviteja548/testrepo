@@ -9,7 +9,7 @@ public class FibanocciRecursive {
 			index++;
 		}
 	}
-
+// adding comments from user2
 	public long fib(long n) {
 		if (n == 0)
 			return 0;
