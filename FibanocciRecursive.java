@@ -6,7 +6,7 @@ public class FibanocciRecursive {
 		while (true) {
 
 			System.out.println(new FibanocciRecursive().fib(index));
-			index++; //updating index
+			index++; //updating index by 1
 		}
 	}
 // adding comments from user2
