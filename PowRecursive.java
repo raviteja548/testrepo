@@ -3,7 +3,9 @@ package questions;
 //PowRecursive autor .mulukuri
 public class PowRecursive {
 	// main method execution being done
+	//to implement logging
 	public static void main(String[] args) {
+	log.info('dsaf');
 		int n = PowRecursive.pow(2, 6);
 		System.out.println(n);
 	}
