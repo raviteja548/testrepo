@@ -1,4 +1,5 @@
 package questions;
+
 //PowRecursive autor .mulukuri
 public class PowRecursive {
 	// main method execution being done
